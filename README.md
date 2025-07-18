@@ -81,7 +81,7 @@ sass source/stylesheets/index.scss build/stylesheets/index.css
 Check out [the Sass website](https://sass-lang.com/guide) for a guide on how to
 learn Sass!
 
-## This Repository
+## This Repository 👶🏻
 
 This repository isn't an implementation of Sass. Those live in
 [`sass/dart-sass`] and [`sass/libsass`]. Instead, it contains:
